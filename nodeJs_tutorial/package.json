@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "help": "^3.0.2",
+    "run-script": "^0.1.1"
+  },
+  "name": "reacttutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
